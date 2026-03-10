@@ -37,11 +37,12 @@ Using the Azure Portal, I configured a new NSG and assigned it to a resource gro
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="2608" height="1624" alt="image" src="https://github.com/user-attachments/assets/80af6e90-a23a-4217-9ccf-ca702a5d2d16" />
+>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+In this lab exercise, I configured inbound security rules within an Azure Network Security Group to control network access to virtual machines.
+Security rules determine whether traffic is allowed or denied based on several parameters including protocol, port number, source, destination, and priority.</p>
 <br />
 
 <p>

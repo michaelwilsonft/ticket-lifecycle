@@ -29,7 +29,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
 <img <img width="1200" height="757" alt="image" src="https://github.com/user-attachments/assets/569f7e20-7c98-48ed-b973-41943bca8a6b" />
->
 </p>
 <p>
 In this lab, I created a Network Security Group (NSG) in Microsoft Azure to control inbound and outbound traffic to resources within a virtual network.
@@ -38,7 +37,6 @@ Using the Azure Portal, I configured a new NSG and assigned it to a resource gro
 
 <p>
 <img <img width="2608" height="1624" alt="image" src="https://github.com/user-attachments/assets/80af6e90-a23a-4217-9ccf-ca702a5d2d16" />
->
 </p>
 <p>
 In this lab exercise, I configured inbound security rules within an Azure Network Security Group to control network access to virtual machines.
@@ -46,9 +44,8 @@ Security rules determine whether traffic is allowed or denied based on several p
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1598" height="1028" alt="image" src="https://github.com/user-attachments/assets/865e6f0f-3fb8-4b02-9d49-d70037d03b2f" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+In this lab, I analyzed network traffic using packet inspection tools to observe how data travels across a network using various protocols.
+Using packet capture software, I monitored live traffic and inspected packet details to identify common network protocols such as TCP, UDP, and ICMP.<br />

@@ -28,7 +28,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img [/](https://learn.microsoft.com/en-us/azure/virtual-network/media/manage-network-security-group/view-security-rules.png)<img width="1200" height="435" alt="image" src="https://github.com/user-attachments/assets/f9f6238f-a356-4023-a0e7-5b3a5db6d35f" />
+<img [/](https://docs.azure.cn/en-us/virtual-network/media/manage-network-security-group/network-security-group-details-inline.png)<img width="1200" height="757" alt="image" src="https://github.com/user-attachments/assets/a814b3fb-c30e-43d7-b039-6267802a28df" />
+>
 >
 </p>
 <p>
